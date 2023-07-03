@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/FuelProjectnewwwwwwwwwwwww/ProjectFuel/src/main/webapp/WEB-INF/lib/jakarta.servlet-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/1.SUBJECTS/SEMESTER 04/2.ITP/ITP_Project_Build/Fuel Supply Management/src/main/webapp/WEB-INF/lib/javax.servlet-3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
